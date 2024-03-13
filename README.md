@@ -8,7 +8,6 @@ This is a console-based implementation of the Pentago game written in C++. The g
 
 ## Features
 
-- **Single-Player Mode**: Play against the computer AI.
 - **Two-Player Mode**: Play against a friend.
 - **Dynamic Board Rotation**: Rotate board quadrants during gameplay.
 - **Win Condition**: The first player to form a row of five of their pieces wins.
