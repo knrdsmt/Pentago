@@ -2,6 +2,10 @@
 
 This is a console-based implementation of the Pentago game written in C++. The game supports both single-player and two-player modes.
 
+<p align="center">
+<img src="https://github.com/knrdsmt/Pentago/blob/main/Pentago.png?raw=true" alt="Pentago" width="45%" height="auto" />
+</p>
+
 ## Features
 
 - **Single-Player Mode**: Play against the computer AI.
@@ -50,6 +54,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Opis
 
 Gra Pentago jest konsolową implementacją popularnej gry planszowej. Została napisana w języku C++ bez użycia zewnętrznych bibliotek. 
+
+<p align="center">
+<img src="https://github.com/knrdsmt/Pentago/blob/main/Pentago.png?raw=true" alt="Pentago" width="45%" height="auto" />
+</p>
 
 ## Zasady Gry
 
