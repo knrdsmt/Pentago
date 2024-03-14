@@ -1,6 +1,6 @@
 # Pentago Game
 
-This is a console-based implementation of the Pentago game written in C++. The game supports both single-player and two-player modes.
+This is a console-based implementation of the Pentago game written in C++. The game supports two-player mode.
 
 <p align="center">
 <img src="https://github.com/knrdsmt/Pentago/blob/main/Pentago.png?raw=true" alt="Pentago" width="45%" height="auto" />
@@ -72,11 +72,6 @@ Aby uruchomić grę, skompiluj program i uruchom go. Następnie postępuj zgodni
 - Podczas obrotu planszy: z - obrót zgodnie z ruchem wskazówek zegara; x - obrót przeciwnie do ruchu wskazówek zegara
 - Instrukcje pomocnicze: h - pomoc; p - pauza
 - Wyjście z opcji: dowolna inna klawisz niż wybór możliwości
-
-## Autorzy
-
-- Ten program został stworzony przez [Twój_Nick](https://github.com/twoj_nick).
-- Zaprojektowany na podstawie reguł gry w Pentago.
 
 ## Licencja
 
